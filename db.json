@@ -1,0 +1,269 @@
+
+
+{
+    "students" : [
+        {
+            "id": 1,
+            "name": "Faisal",
+            "address": "Coxs Bazar",
+            "skill": "Ios Devs",
+            "day":["Sat","Mon","Wed"],
+            "married": "No",
+            "marks": {
+                "bangla": 50,
+                "english": 70,
+                "math": 60
+            }
+        },
+        {
+            "id": 2,
+            "name": "Razzak",
+            "address": "Kagrachori",
+            "skill": "Js Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "Yes",
+            "marks": {
+                "bangla": 60,
+                "english": 80,
+                "math": 50
+            }
+        },
+        {
+            "id": 3,
+            "name": "Rubel",
+            "address": "Rongpur",
+            "skill": "Java Devs",
+            "day":["Sat","Mon","Wed"],
+            "married": "No",
+            "marks": {
+                "bangla": 40,
+                "english": 30,
+                "math": 20
+            }
+        },
+        {
+            "id": 4,
+            "name": "S Uddin",
+            "address": "Sylet",
+            "skill": "PHP Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "No",
+            "marks": {
+                "bangla": 50,
+                "english": 70,
+                "math": 60
+            }
+        },
+        {
+            "id": 5,
+            "name": "Robin",
+            "address": "Comill",
+            "skill": "Python Devs",
+            "day":["Sat","Mon","Wed"],
+            "married": "Yes",
+            "marks": {
+                "bangla": 70,
+                "english": 80,
+                "math": 90
+            }
+        },
+        {
+            "id": 6,
+            "name": "Reza",
+            "address": "Chattogram",
+            "skill": "Laravel Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "No",
+            "marks": {
+                "bangla": 50,
+                "english": 70,
+                "math": 60
+            }
+        },
+        {
+            "id": 7,
+            "name": "Abul",
+            "address": "Dhaka",
+            "skill": "Ruby on Rails Devs",
+            "day":["Sat","Mon","Wed"],
+            "married": "Yes",
+            "marks": {
+                "bangla": 90,
+                "english": 80,
+                "math": 50
+            }
+        },
+        {
+            "id": 8,
+            "name": "Babul",
+            "address": "Fani",
+            "skill": "SQL Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "No",
+            "marks": {
+                "bangla": 50,
+                "english": 55,
+                "math": 60
+            }
+        },
+        {
+            "id": 9,
+            "name": "Jarina",
+            "address": "Comilla",
+            "skill": "Laravel Devs",
+            "day":["Sat","Mon","Wed"],
+            "married": "Yes",
+            "marks": {
+                "bangla": 70,
+                "english": 50,
+                "math": 80
+            }
+        },
+        {
+            "id": 10,
+            "name": "Morjina",
+            "address": "Dhaka",
+            "skill": "PHP Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "No",
+            "marks": {
+                "bangla": 50,
+                "english": 70,
+                "math": 60
+            }
+        }
+    ],
+    
+    "techers" : [
+        {
+            "id": 1,
+            "name": "Abul",
+            "address": "Coxs Bazar",
+            "skill": "Ios Devs",
+            "day":["Sat","Mon","Wed"],
+            "married": "Yes",
+            "class": {
+                "class1": "Bangla",
+                "class2": "G. Science",
+                "class3": "Religion"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Babul",
+            "address": "Kagrachori",
+            "skill": "Js Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "Yes",
+            "class": {
+                "class1": "English",
+                "class2": "S. Science",
+                "class3": "Math"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Rubel",
+            "address": "Rongpur",
+            "skill": "Java Devs",
+            "day":["Sat","Mon","Wed"],
+            "married": "No",
+            "class": {
+                "class1": "Bangla",
+                "class2": "G. Science",
+                "class3": "Religion"
+            }
+        },
+        {
+            "id": 4,
+            "name": "S Uddin",
+            "address": "Sylet",
+            "skill": "PHP Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "No",
+            "class": {
+                "class1": "English",
+                "class2": "S. Science",
+                "class3": "Math"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Robin",
+            "address": "Comill",
+            "skill": "Python Devs",
+            "day":["Sat","Mon","Wed"],
+            "married": "Yes",
+            "class": {
+                "class1": "Bangla",
+                "class2": "G. Science",
+                "class3": "Religion"
+            }
+        },
+        {
+            "id": 6,
+            "name": "Reza",
+            "address": "Chattogram",
+            "skill": "Laravel Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "No",
+            "class": {
+                "class1": "English",
+                "class2": "S. Science",
+                "class3": "Math"
+            }
+        },
+        {
+            "id": 7,
+            "name": "Fulmoti",
+            "address": "Chattogram",
+            "skill": "Laravel Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "No",
+            "class": {
+                "class1": "Bangla",
+                "class2": "G. Science",
+                "class3": "Religion"
+            }
+        },
+        {
+            "id": 8,
+            "name": "Fulbanoo",
+            "address": "Chattogram",
+            "skill": "Laravel Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "No",
+            "class": {
+                "class1": "English",
+                "class2": "S. Science",
+                "class3": "Math"
+            }
+        },
+        {
+            "id": 9,
+            "name": "Fultosi",
+            "address": "Chattogram",
+            "skill": "Laravel Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "No",
+            "class": {
+                "class1": "Bangla",
+                "class2": "G. Science",
+                "class3": "Religion"
+            }
+        },
+        {
+            "id": 10,
+            "name": "Madon",
+            "address": "Chattogram",
+            "skill": "Laravel Devs",
+            "day":["Sun","Tue","Thu"],
+            "married": "No",
+            "class": {
+                "class1": "English",
+                "class2": "S. Science",
+                "class3": "Math"
+            }
+        }
+    ]
+}
